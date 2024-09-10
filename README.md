@@ -7,6 +7,10 @@
 - Fast Multi Token raider
 - Discord Token Nuker
 # Installation 
+⚡ Install Python
+```bash
+Python 3.10+
+```
 ⚡ Install Python packages by using pip
 ```bash
 pip install -r requirements.txt
