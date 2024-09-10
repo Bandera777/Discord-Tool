@@ -1,6 +1,4 @@
 # Discord-Tool
-<img src="screenshots/start.png">
-
 # functional
 - Multi webhook spammer
 - Multi webhook deleter
